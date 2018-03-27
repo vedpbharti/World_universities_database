@@ -10,5 +10,4 @@ Prerequisite: This script required a text file with wikipedia university link ad
 
 -------------------------------------------------------
 https://en.wikipedia.org/wiki/University_of_Alabama
-https://en.wikipedia.org/wiki/Alabama_State_University
 https://en.wikipedia.org/wiki/University_of_Arkansas
